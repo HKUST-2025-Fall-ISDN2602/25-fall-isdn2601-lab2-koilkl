@@ -1,8 +1,8 @@
 //Pin Config
 
 //Select your own pin for Gate Inputs
-#define Gate_Input_A 20
-#define Gate_Input_B 21
+#define Gate_Input_A 12
+#define Gate_Input_B 14
 
 String command; // commands to input the value A and B to the gates via the Serial Monitor
 
